@@ -1,1 +1,1 @@
-# Extracting-Complex-Information-from-Natural-Language-Text
+# Complex-IE
