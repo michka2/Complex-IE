@@ -1,1 +1,1 @@
-# Extracting-Complex-Informationfrom-Natural-Language-Text
+# Extracting-Complex-Information-from-Natural-Language-Text
