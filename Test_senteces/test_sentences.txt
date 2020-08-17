@@ -1,0 +1,79 @@
+             Belief: 
+
+* Fabian still believes that Elvis is alive.
+* Mary believes everything that The Economist writes Steve Jobs believes that to achieve success we must believe in our vision.
+* Emma believes in ghosts
+* Researchers believe that coronavirus will disappear
+* Galileo thought  that the Earth moved around the Sun.
+
+ 
+            Negation:
+
+* Angelina Jolie is not from Tunisia
+* Brad Pitt and Angelina Jolie are no longer together
+* Joe Tribuani doesn’t speak French.
+* Ross and Rachele were not on a break
+* It is not necessary to sanitize your groceries
+* It is still not certain how long the virus that causes COVID-19  survives on surfaces.
+* There was no mountain high enough or a valley low enough to stop the Romans from building their huge empire
+
+           Causality:
+
+* Trump wants to ban Twitter because of the criticism he is receiving.
+* Through his patience and persistence, Elon Musk, CEO of SpaceX, made all his dreams come true.
+* The SpaceX rocket launch has been postponed because of the bad weather.
+* Covid-19 cannot be compared to previous pandemics because humanity made major advancements in terms of medical researchers and hygiene
+* Leonardo DiCaprio was baptized “Leonardo” by his mother, because she visited a museum in Italy while she was still pregnant, and felt that the baby was kicking while she saw a work of Leonardo DaVinci.
+ 
+           Anteriority :
+
+* In the past, we used to write letters and send cards to keep in touch with our relatives, but now thanks to the so-called technology we can see and talk to each other.
+* Once the votes are closed, the new elected president will be declared.
+* Monica took her driver's license before buying a car.
+
+        N-ary relations:
+ 
+* Emma bought the alchimist book from fnac.fr for $12 as a mother's day gift.
+* Nelson Mandela, was born on 18 of July 1918. He was a South African political leader and a philanthropist. Moreover, he served as President of South Africa from 1994 to 1999.
+* Michelle Obama is not only known as Obama’s wife. But also as an advocate for poverty awareness, education, nutrition, physical activity, and healthy eating.
+* Angelina Jolie is an American actress, filmmaker, and humanitarian. She has been named Hollywood's highest-paid actress many times.
+ 
+ 
+         Contrast:
+
+* Even though the weather was bad , they enjoyed the concert.
+* Despite the fact that the bus was late, we arrived on time.
+* Although he worked hard, he didn’t get the promotion.
+
+           
+        Denomination and relative pronouns:
+
+* Marie Curie is the woman who discovered radium.
+* Marie Curie who discovered radium is a woman 
+* Bill Gates, who is best known as the co-founder of Microsoft Corporation, was born on the 28 of October 1955.
+* Angela Merkel, the German chancellor, met the French President Emmanuel Macron.
+* GAFA is the nickname of Google, Amazon, Facebook, Apple, which are the Big four technology companies
+
+
+      Anaphoras:
+* Hannibal is a Carthaginian general who led Carthage's main army against Rome during the Second Punic War.He is known for his well-planned strategies which make him one of the greatest military leaders in world history. 
+* Barack Obama is an American politician. He was elected  as the 44th president of the United States.
+* Walter Elias Disney was passionate about drawing since he was young . His first famous character was Mickey Mouse , which was a huge success .
+* Yoga is a spiritual practice which does not only have mental but also physical health benefits.In fact, it decreases stress, improves heart attack and reduces weight .
+
+        Multi-sentence:
+ 
+* Scientists ignored Einstein at first thinking he lost his mind, But it didn’t stop him from believing in his theory. Therefore, he revolutionized modern physics by his general theory of relativity.
+* Covid-19 was first identified in December 2019 in Wuhan, China, and  spread around the world any time between.For this reason, many events have been canceled, and restaurants and bars have been closed. However, many scientists claim that life can soon return to normal.
+* George Floyd's brutal death has created a big wave of anger and fury across the country. In fact, demonstrations and anti-racism protests started in many countries demanding justice and equality.
+* Nowadays,  the volume of data produced is doubling and it becomes mandatory to explore it in order to increase the company's profit.  But more information does not necessarily mean more knowledge. That’s why we have to extract the pertinent ones .
+* Lady Diana , the first wife of Charles , Prince of Wales , died in a car crash in Paris , Since that night , many people believe that Diana's death was ordered by the Royal Family because of her relationship with Dodi Fayed .
+     
+ 
+
+ 
+ 
+ 
+ 
+ 
+
