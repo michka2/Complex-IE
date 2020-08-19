@@ -1,4 +1,4 @@
-# Extracting-Complex-Information-from-Natural-Language-Text
+# Extracting Complex Information from Natural Language Text
 Information Extraction is the art of extracting structured information from natural language text, and it has come a long way in recent years. Many systems focus on binary relationships between two entities -- a subject and an object. However, most natural language text contains complex information such as beliefs, causality, anteriority, or relationships that span several sentences.  
 # Repository
 In this project,  we focus on 5 systems that have particular provisions for dealing with more than triples:  FRED, K-Parser, ClausIE, MinIE , and OpenIE.  
